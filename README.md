@@ -71,5 +71,5 @@ Here are some screenshots of same input of length 5 number: 1, 2, 3, 4, 5. These
 
 ## Acknowledgement
 
-This code was written by me in as a assignment of Data Structures course in National University of Computer and Emerging Sciences and it was written in the Eclipse IDE.
+This code was written as a assignment of Data Structures course in National University of Computer and Emerging Sciences and it was written in the Eclipse IDE.
 
