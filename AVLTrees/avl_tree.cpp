@@ -1,9 +1,8 @@
 //============================================================================
-// Name        : assignment_5.cpp
-// Author      : AKASH (14-1629)
+// Name        : avl_tree.cpp
+// Author      : AKASH HARIJAN
 // Version     : C++
-// Copyright   : Your copyright notice
-// Description : Hello World in C, Ansi-style
+// Description : AVL Tree implementation in C++
 //============================================================================
 
 # include <iostream>

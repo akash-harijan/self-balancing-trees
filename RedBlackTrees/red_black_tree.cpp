@@ -1,10 +1,9 @@
 
 //============================================================================
-// Name        : AKASH_141629_A_02
-// Author      : AKASH (14-1629)
+// Name        : red_black_tree
+// Author      : AKASH HARIJAN
 // Version     : C++
-// Copyright   : Your copyright notice
-// Description : Hello World in C, Ansi-style
+// Description : Red black tree implementation in C++
 //============================================================================
 
 # include <iostream>
